@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChangeLang1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="change_lang">Change Language</string>
+
+    <string-array name="lang_array">
+        <item>English</item>
+        <item>German</item>
+        <item>French</item>
+    </string-array>
+</resources>

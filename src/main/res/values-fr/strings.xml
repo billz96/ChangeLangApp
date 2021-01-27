@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutreLang1</string>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="change_lang">Changer de langue</string>
+
+    <string-array name="lang_array">
+        <item>Anglais</item>
+        <item>Allemand</item>
+        <item>Francais</item>
+    </string-array>
+</resources>

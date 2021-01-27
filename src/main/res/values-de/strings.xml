@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VerSprachen1</string>
+    <string name="hello_world">Hello Welt!</string>
+    <string name="change_lang">Sprache aendern</string>
+
+    <string-array name="lang_array">
+        <item>English</item>
+        <item>Deutsch</item>
+        <item>Franzosisch</item>
+    </string-array>
+</resources>
